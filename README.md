@@ -1,5 +1,8 @@
-# praktek-nextjs ke 2
+# Data Diri
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
-
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda (oke sudah saya clone)
+|  |  |
+|--|--|
+| NIM | 22104410060 |
+| Nama Lengkap | Adhi eka syahputra |
+| Kelas | TI-5MM |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
